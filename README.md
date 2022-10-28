@@ -5,5 +5,5 @@ Una vez hecho esto hay que ejecutar el archivo .py desde el terminal o IDLE.
 Este nos abrira el html en el que nos mostrará la fecha y hora del sistema obtenido desde la libreria time de python.
 
 #Requerimientos
-Tener instalado la libreria eel: pip install Eel
-Tener instalado la libreria time: pip install python-time
+*Tener instalado la libreria eel: pip install Eel
+*Tener instalado la libreria time: pip install python-time
